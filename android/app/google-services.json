@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464775167129",
+    "project_id": "mkulima-5eaf5",
+    "storage_bucket": "mkulima-5eaf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464775167129:android:8d21085b77892019238c08",
+        "android_client_info": {
+          "package_name": "com.project.mkulima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464775167129-uitprdtlcpqbjgreiif0tcbtdnhur0iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYEkhmERj9iZqKj7Yxx7-M6D2XZ14ccEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464775167129-uitprdtlcpqbjgreiif0tcbtdnhur0iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
